@@ -11,7 +11,3 @@ No nos dejes caer en detached HEAD
 y libranos de SVN
 git commit--amen
 
-
-Borja Torán
-
-
